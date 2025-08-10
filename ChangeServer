@@ -12,7 +12,7 @@
     }
   ],
   "notice": {
-    "showDialog": false,
+    "showDialog": true,
     "importantMsg": "Guys, all servers are down. When it is working, I'll tell u by this msg."
   }
 }

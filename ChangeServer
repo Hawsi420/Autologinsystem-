@@ -13,7 +13,11 @@
     {
       "name": "🚀 Server 3",
       "url": "https://dl.NoGutsNoGlory.eu.org/2012799/com.amazon.avod.thirdpartyclient.zip?hash=PqRL5BH",
-      "status": "[ Working  ✅]"
+      "status": "[ Working ✅ ]"
     }
-  ]
+  ],
+  "notice": {
+    "showDialog": true,
+    "importantMsg": "Guys, all servers are down. When it is working, I'll tell u by this msg."
+  }
 }

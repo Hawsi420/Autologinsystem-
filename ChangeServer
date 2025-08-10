@@ -9,10 +9,15 @@
       "name": "🔥 Server 2",
       "url": "https://dl.NoGutsNoGlory.eu.org/2014133/data+%281%29.zip?hash=CzE5BaS",
       "status": "[ Working ✅ ]"
+    },
+{
+      "name": "🔥 Server 2",
+      "url": "https://dl.NoGutsNoGlory.eu.org/2014133/data+%281%29.zip?hash=CzE5BaS",
+      "status": "[ Working ✅ ]"
     }
   ],
   "notice": {
-    "showDialog": true,
+    "showDialog": false,
     "importantMsg": "Guys, all servers are down. When it is working, I'll tell u by this msg."
   }
 }

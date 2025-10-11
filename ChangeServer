@@ -12,6 +12,11 @@
     },
 {
       "name": "🌐 Server 3",
+      "url": "https://raw.githubusercontent.com/MrAnkMods/Kukutv/refs/heads/main/data.zip",
+      "status": "[ Working ✅ ]"
+    },
+{
+      "name": "🌐 Server 4",
       "url": "https://github.com/ITSXLUCKY/Kukut2/raw/refs/heads/main/data.zip",
       "status": "[ Working ✅ ]"
     }
